@@ -1,0 +1,14 @@
+Epoch:  5, K = 10
+Centroid:  {0: "['the', 'plague', 'of', 'light', 'in', 'our', 'bedrooms']", 1: "['good', 'teeth', 'may', 'help', 'sporting', 'success']", 2: "['a&amp;e', 'waiting', 'times', 'in', 'england', 'improve']", 3: '["monkey\'s", \'brain\', \'moves\', \'sedated\', \'avatar\']', 4: "['activity', 'aids', 'breast', 'cancer', 'survival']", 5: "['audio:', 'nutt:', 'e-cigs', 'are', 'a', 'health', 'advance']", 6: "['nhs', 'staff', 'say', 'care', 'good', 'enough']", 7: "['cut', 'music', 'to', 'an', 'hour', 'a', 'day', '-', 'who']", 8: "['nhs', 'acting', 'as', 'barrier', 'to', 'families']", 9: "['biggest', 'hospital', 'to', 'be', 'handed', 'over']"}
+869.4575912668963
+SSE:  869.4575912668963
+[1123, 845, 103, 110, 387, 421, 214, 31, 394, 301]
+
+K = 7
+----------------------------------------
+SSE:  940.9164056168893
+[166, 62, 173, 331, 2439, 358, 400]
+
+K:  17
+SSE:  899.4346144135591
+[256, 65, 102, 225, 85, 498, 556, 86, 472, 62, 214, 149, 102, 92, 631, 196, 138]
